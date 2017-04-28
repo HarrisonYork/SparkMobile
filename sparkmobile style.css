@@ -1,0 +1,26 @@
+sparkmobile style.css
+
+* {
+   border: 5px;
+}
+
+
+.main {
+	font: helvetica, sans-serif;
+	font-size: 30px;
+	background-color: blue;
+	font-color: black;
+	text-align: center;
+}
+
+.navbar {
+	font-size: 5em;
+	display: inline-block;
+	background-color: blue;
+	font-color: black;
+	text-align: center;
+    flex-wrap: wrap;
+    margin: 2em;
+    padding: 4px, 8px;
+}
+
